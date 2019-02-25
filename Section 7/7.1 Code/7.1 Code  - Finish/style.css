@@ -1,0 +1,17 @@
+body {
+	background-color: orange;
+}
+
+#barchart{
+    width: 800px;
+    height: 400px;
+    background-color: darkgrey;
+    margin: 10px auto;
+}
+
+#buttons {
+	width: 800;
+	margin: 10 auto;
+	text-align: center;
+}
+

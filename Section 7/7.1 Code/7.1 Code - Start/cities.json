@@ -1,0 +1,10 @@
+[
+ {"capital": "Tirana", "population":"2837000", "lat":"41.1311861", "lon":"17.8463017"},
+ {"capital": "Prague", "population":"10580000", "lat":"50.0598058", "lon":"14.3255424"},
+ {"capital": "Berlin", "population":"82790000", "lat":"52.5069704", "lon":"13.2846505"},
+ {"capital": "Madrid", "population":"46570000", "lat":"40.4380638", "lon":"-3.7495762"},
+ {"capital": "Paris", "population":"67120000", "lat":"48.8589507", "lon":"2.2770205"},
+ {"capital": "Budapest", "population":"9781000", "lat":"47.4813602", "lon":"18.9902212"},
+ {"capital": "Amsterdam", "population":"17080000", "lat":"52.3547322", "lon":"4.8285838"},
+ {"capital": "Bratislava", "population":"5435000", "lat":"48.1359244", "lon":"16.9758353"}
+]

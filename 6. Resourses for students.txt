@@ -1,0 +1,18 @@
+6.1 Discovering map charts types --> https://guides.library.duke.edu/datavis/vis_types
+
+6.3 
+Create a geoJSON --> https://geojson-maps.ash.ms/
+Map JSON validator --> http://geojson.io/#map=2/20.0/0.0
+JSON formatter and validator --> https://jsonformatter.curiousconcept.com/
+
+
+6.4
+Projections on github --> https://github.com/d3/d3-geo-projection
+Convert chrome to a server with an extention --> https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en
+
+6.5
+UI material colors --> https://www.materialui.co/colors
+Adobe colors --> https://color.adobe.com/create/color-wheel/?base=2&rule=Analogous&selected=2&name=My%20Color%20Theme&mode=rgb&rgbvalues=1,0.33453431372512343,0.050000000000000044,0.91,0.17157291666660104,0.04549999999999994,1,0.00784313725490196,0,0.91,0.04549999999999994,0.4777500000001965,1,0.050000000000000044,0.999999999999784&swatchOrder=0,1,2,3,4
+
+6.6
+d3 scale --> https://github.com/d3/d3-scale

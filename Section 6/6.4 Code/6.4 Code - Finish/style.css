@@ -1,0 +1,11 @@
+body {
+	background-color: orange;
+}
+
+#barchart{
+    width: 800px;
+    height: 400px;
+    background-color: darkgrey;
+    margin: 10px auto;
+}
+

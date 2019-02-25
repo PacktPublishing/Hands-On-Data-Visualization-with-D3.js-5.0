@@ -1,0 +1,5 @@
+7.1 bootstrap icons --> https://www.w3schools.com/bootstrap/bootstrap_ref_comp_glyphs.asp
+
+7.4 the 'drag' event --> https://github.com/d3/d3-drag
+
+7.6 the 'zoom' event --> https://github.com/d3/d3-zoom
