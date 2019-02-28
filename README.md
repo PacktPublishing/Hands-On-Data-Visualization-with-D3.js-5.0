@@ -20,21 +20,21 @@ By the end of this course, students will have learned how to visualize data and 
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-●	Prior working knowledge of the JavaScript (ES5) language
-●	A basic understanding of D3.js
-●	A basic understanding of SVG
-●	An understanding of basic HTML and CSS syntax.
+●	Prior working knowledge of the JavaScript (ES5) language<br/>
+●	A basic understanding of D3.js<br/>
+●	A basic understanding of SVG<br/>
+●	An understanding of basic HTML and CSS syntax.<br/>
 
 ### Technical Requirements
 This course has the following software requirements:<br/>
-●	An editor like Atom, Sublime Text or Visual Studio Code
-●	Internet connection (preferably working with Chrome)
-This course has been tested on the following system configuration:
-●	OS: Windows 10
-●	Processor: Dual Core 5.0 Ghz
-●	Memory: 6GB
+●	An editor like Atom, Sublime Text or Visual Studio Code<br/>
+●	Internet connection (preferably working with Chrome)<br/>
+This course has been tested on the following system configuration:<br/>
+●	OS: Windows 10<br/>
+●	Processor: Dual Core 5.0 Ghz<br/>
+●	Memory: 6GB<br/>
 ●	Hard Disk Space: 200MB
-
+<br/>
 
 
 ## Related Products
